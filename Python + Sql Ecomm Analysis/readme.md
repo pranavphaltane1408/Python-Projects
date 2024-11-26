@@ -18,7 +18,7 @@ and Python libraries like Pandas and Seaborn for visualization, we analyzed thou
 12. Calculate the cumulative sales per month for each year.
 13. Calculate the year-over-year growth rate of total sales.
 14. Calculate the retention rate of customers, defined as the percentage of customers who make another purchase within 6 months of their first purchase.
-15. Identify the top 3 customers who spent the most money in each year.
+15. Identify the top 3 customers who spent the most money in each year
 
 # Key Learnings
 1. Customer Geography:
